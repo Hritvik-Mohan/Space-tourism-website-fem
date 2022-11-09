@@ -440,11 +440,7 @@ select {
         right: 1rem;
         top: 2rem;
         background: transparent;
-<<<<<<< HEAD
         background-image: url(../assets/shared/icon-hamburger.svg);
-=======
-        background-image: url(assets/shared/icon-hamburger.svg);
->>>>>>> 26f9d213776a2a9c5f67ed50ed1b7b27b83783d3
         background-repeat: no-repeat;
         background-position: center;
         width: 1.5rem;
@@ -455,11 +451,7 @@ select {
     
 
     .mobile-nav-toggle[aria-expanded="true"] {
-<<<<<<< HEAD
         background-image: url(../assets/shared/icon-close.svg);
-=======
-        background-image: url(assets/shared/icon-close.svg);
->>>>>>> 26f9d213776a2a9c5f67ed50ed1b7b27b83783d3
     }
 
     .mobile-nav-toggle:focus-visible {
